@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16581117243",
+    "project_id": "fary-minke",
+    "storage_bucket": "fary-minke.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16581117243:android:a56df128847cebf2eaa31e",
+        "android_client_info": {
+          "package_name": "com.bixmo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fNxnQqLzAjaebt8vpJ0Vu52_GPaQyM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
